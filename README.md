@@ -25,8 +25,10 @@
 
 請寫一個程式，讓使用者輸入金字塔的高（height），用 `#` 作為磚塊，堆疊出金字塔的左半側
 
+馬力歐 1-1 關卡長這樣：
 
-### 範例
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQViIHgrw8HJChWsHgrVQPAPD1cMcHNUd5aw&usqp=CAU)
+### 範例：
 ```
 輸入：8 2
      mario!
